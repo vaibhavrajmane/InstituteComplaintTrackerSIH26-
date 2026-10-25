@@ -1,0 +1,6 @@
+{
+  "name": "AICTE Integrated Institution Complaint Monitoring & Status Dashboard (IICMD)",
+  "description": "Single-window real-time complaint monitoring, cross-bureau overlap detection, and institutional 360° governance dashboard for the All India Council for Technical Education (AICTE).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
